@@ -63,7 +63,7 @@ scraper-guardrails/
 ├─ cli.py               # CLI to run pipelines + triage failures
 ├─ requirements.txt
 └─ README.md
-'''
+```
 
 ## Example Pipeline — NBA Boxscores 
 The included example pipeline (pipelines/nba_boxscores.py) demonstrates:  
